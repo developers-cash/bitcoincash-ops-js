@@ -1,6 +1,6 @@
 {
   "name": "bitcoin-ops",
-  "version": "1.4.1",
+  "version": "1.5.0",
   "description": "bitcoin OP codes",
   "author": "Daniel Cousens",
   "license": "MIT",
